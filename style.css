@@ -1,0 +1,25 @@
+
+body{
+    background-color:lightcoral;
+}
+.head{
+    color: darkblue;
+
+}
+#bglime{
+    background-color:lime ;
+   
+}
+#bglime span{
+     color:red !important;
+}
+p{
+    color:white;
+}
+#para{
+    color:green;
+}
+p span{
+    color:black;
+    font-size:25px;
+}
